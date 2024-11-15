@@ -358,7 +358,7 @@
 
 # Extra
 
-- Enlace al repositorio de github: [click]([alvarora62/despliegue24gitEntregable](https://github.com/alvarora62/despliegue24gitEntregable))
+- Enlace al repositorio de github: [click](https://github.com/alvarora62/despliegue24gitEntregable)
 
 
 
